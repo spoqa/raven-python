@@ -35,6 +35,11 @@ Project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 * [Core] Added fix for cases with exceptions in repr
 * [core] Fixed bug with mutating `record.data`
 
+6.6.0.no-flask-darra (2018-02-19)
+---------------------------------
+
+* No longer provide form data for Flask (#457)
+
 6.6.0 (2018-02-12)
 ------------------
 * [Core] Add trimming to breadcrumbs.
