@@ -1,3 +1,9 @@
+Version 6.2.1.no-flask-darra
+----------------------------
+
+* No longer provide form data for Flask (#457)
+
+
 Version 6.2.1
 -------------
 
