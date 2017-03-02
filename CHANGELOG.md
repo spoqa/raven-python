@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 Project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+6.2.1.no-flask-darra (2017-11-13)
+---------------------------------
+
+* No longer provide form data for Flask (#457)
+
+
 6.3.0 (2017-10-29)
 ------------------
 * [Core] Changed default timeout on http calls to 5 seconds
